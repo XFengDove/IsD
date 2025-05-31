@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<Monste>
+    <Easy>
+        <l1>
+            史莱姆 一种随处可见的低级魔物
+            <Login name="史莱姆" Lev="2" />
+        </l1>
+    </Easy>
+</Monste>

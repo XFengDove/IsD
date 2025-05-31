@@ -1,0 +1,51 @@
+{
+  "User": {
+    "Basic": {
+      "Name": null,
+      "BirthDay": null
+    },
+    "Role": {
+      "最大生命值": 23,
+      "生命值": 23,
+      "MaxMana":54,
+      "NowMana": 54,
+
+      "物理攻击力": 10,
+      "法术攻击力": 5,
+      "暴击率": 0.5,
+      "暴击伤害": 0.5,
+      "穿透": 0,
+
+      "物理伤害加成": 0,
+      "法术伤害加成": {
+        "火焰": 0,
+        "水": 0,
+        "冰": 0,
+        "光明":0
+      },
+
+      "物理抗性": 100,
+      "法术抗性": 0,
+      "防御力": 5,
+
+      "全伤害加成": 0
+    },
+    "Materiel": {
+      "Weapon": null,
+      "Hard": null,
+      "Hand": null,
+      "Chest": null,
+      "Gaiters": null,
+      "Shoes": null,
+      "Jewelry": {
+        "Ring_Up": null,
+        "Ring_Mid": null,
+        "Ring_Low": null,
+        "Medal_Up": null,
+        "Medal_Mid": null,
+        "Medal_Low": null
+      }
+    }
+
+  }
+}
